@@ -1,0 +1,40 @@
+dev_workspace:
+total 20
+drwxr-xr-x 5 user01 user01 4096 Oct  3 17:15 .
+drwxr-x--- 7 user01 user01 4096 Oct  3 17:16 ..
+drwxr-xr-x 2 user01 user01 4096 Oct  3 17:11 archives
+drwxr-xr-x 3 user01 user01 4096 Oct  3 17:12 projects
+drwxr-xr-x 2 user01 user01 4096 Oct  3 17:11 tools
+
+dev_workspace/archives:
+total 8
+drwxr-xr-x 2 user01 user01 4096 Oct  3 17:11 .
+drwxr-xr-x 5 user01 user01 4096 Oct  3 17:15 ..
+
+dev_workspace/projects:
+total 12
+drwxr-xr-x 3 user01 user01 4096 Oct  3 17:12 .
+drwxr-xr-x 5 user01 user01 4096 Oct  3 17:15 ..
+drwxr-xr-x 4 user01 user01 4096 Oct  3 17:12 web
+
+dev_workspace/projects/web:
+total 16
+drwxr-xr-x 4 user01 user01 4096 Oct  3 17:12 .
+drwxr-xr-x 3 user01 user01 4096 Oct  3 17:12 ..
+drwxr-xr-x 2 user01 user01 4096 Oct  3 17:12 backend
+drwxr-xr-x 2 user01 user01 4096 Oct  3 17:12 frontend
+
+dev_workspace/projects/web/backend:
+total 8
+drwxr-xr-x 2 user01 user01 4096 Oct  3 17:12 .
+drwxr-xr-x 4 user01 user01 4096 Oct  3 17:12 ..
+
+dev_workspace/projects/web/frontend:
+total 8
+drwxr-xr-x 2 user01 user01 4096 Oct  3 17:12 .
+drwxr-xr-x 4 user01 user01 4096 Oct  3 17:12 ..
+
+dev_workspace/tools:
+total 8
+drwxr-xr-x 2 user01 user01 4096 Oct  3 17:11 .
+drwxr-xr-x 5 user01 user01 4096 Oct  3 17:15 ..

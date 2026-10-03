@@ -1,0 +1,5 @@
+1. Edit the project files.
+2. Check the changes with git status.
+3. Add the files with git add.
+4. Save the changes with git commit.
+5. Upload the commit to GitHub with git push.
