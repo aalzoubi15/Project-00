@@ -1,3 +1,5 @@
+#!/bin/bash
+
 touch draft.txt
 echo "1st line" > draft.txt
 echo "2nd line" >> draft.txt
