@@ -30,10 +30,7 @@ with other developers.
 
 Git makes development easier because it keeps a history of changes.
 
-If I make a mistake, I can look at previous commits and recover an
-older version of my work.
-
-Git also makes collaboration easier because multiple developers can
+Git makes collaboration easier because multiple developers can
 work on the same project and share their changes.
 
 It also gives me a safe way to experiment with changes without
